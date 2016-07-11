@@ -23,7 +23,7 @@ Changes/improvements are made in order to work with minimum requirments.
 
 Also, I modified the source code (java) of the SpeakerDiarization toolkit.
 Source code is in the src folder.
-See CHANGES.txt for more.
+See src/CHANGES.txt .
 ```
 
 install
